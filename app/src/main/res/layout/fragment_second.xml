@@ -26,7 +26,7 @@
 
     <EditText
         android:id="@+id/input3"
-        android:layout_width="wrap_content"
+        android:layout_width="100dp"
         android:layout_height="40dp"
 
         android:layout_marginStart="130dp"
@@ -40,20 +40,20 @@
         android:id="@+id/textView4"
         android:layout_width="wrap_content"
         android:layout_height="45dp"
-        android:layout_marginStart="70dp"
-        android:layout_marginLeft="70dp"
-        android:layout_marginTop="60dp"
+        android:layout_marginStart="230dp"
+        android:layout_marginLeft="230dp"
+        android:layout_marginTop="20dp"
         android:text="@string/textView4"
         android:textSize="14sp" />
 
     <EditText
         android:id="@+id/input4"
-        android:layout_width="wrap_content"
+        android:layout_width="100dp"
         android:layout_height="40dp"
 
-        android:layout_marginStart="130dp"
-        android:layout_marginLeft="130dp"
-        android:layout_marginTop="50dp"
+        android:layout_marginStart="290dp"
+        android:layout_marginLeft="290dp"
+        android:layout_marginTop="10dp"
         android:autofillHints=""
         android:ems="10"
         android:inputType="number" />
@@ -64,7 +64,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="70dp"
         android:layout_marginLeft="70dp"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="70dp"
         android:text="@string/button1" />
 
     <Button
@@ -73,7 +73,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="70dp"
         android:layout_marginLeft="70dp"
-        android:layout_marginTop="140dp"
+        android:layout_marginTop="120dp"
         android:text="@string/button2" />
 
     <Button
@@ -82,7 +82,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="70dp"
         android:layout_marginLeft="70dp"
-        android:layout_marginTop="180dp"
+        android:layout_marginTop="170dp"
         android:text="@string/button3" />
 
     <TextView
@@ -91,7 +91,7 @@
         android:layout_height="45dp"
         android:layout_marginStart="70dp"
         android:layout_marginLeft="70dp"
-        android:layout_marginTop="260dp"
+        android:layout_marginTop="270dp"
         android:textSize="18sp" />
 
 </FrameLayout>
